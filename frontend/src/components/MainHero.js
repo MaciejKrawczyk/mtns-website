@@ -1,6 +1,6 @@
 import React from "react";
-import apple from "../app-store.4084377.png"
-import google from "../google-play.6d00271.png"
+import apple from "../images/app-store.4084377.png"
+import google from "../images/google-play.6d00271.png"
 
 
 export default function MainHero () {

@@ -1,5 +1,5 @@
 import React from "react";
-import logo from '../logo.svg'
+import logo from '../images/logo.svg'
 
 export default function Header() {
 
@@ -168,10 +168,10 @@ export default function Header() {
                     <div className="sub-menu-holder"></div>
                 </div>
             </div>
+
             <div id="sub-menu-container">
                 <div id="sub-menu-holder">
                     <div id="sub-menu-bottom">
-
                     </div>
                 </div>
             </div>
